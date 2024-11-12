@@ -15,6 +15,6 @@ Currently a computer science student @ University of Bristol!<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clarissachng&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=clarissachng&label=Profile%20Views&color=4&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=clarissachng&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
