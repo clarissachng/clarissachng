@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently a computer science student @ University of Bristol!<br>
+Currently a computer science student @ University of Bristol! Previously a web developer intern @ [BikeBear](https://www.bikebear.com.my/), and an incoming software engineering intern @ J.P. Morgan<br>
+Some of my recent works include MedicRecall (Associated with University of Bristol and NHS) 🩺, [Haunted Escape](https://github.com/rjimin/GameJam2024) (Associated with GameJam CSS Univeristy of Bristol) 👾, my personal [web portfolio](https://clarissachng.github.io/) and many more!
 
 
 ## 🌐 Socials:
