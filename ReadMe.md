@@ -1,9 +1,9 @@
 # 💫 About Me:
-Currently a computer science student @ University of Bristol! Previously a web developer intern @ [BikeBear](https://www.bikebear.com.my/) 🐻 , and an incoming software engineering intern @ J.P. Morgan<br>
-Some of my recent works include MedicRecall (Associated with University of Bristol and NHS) 🩺, [Haunted Escape](https://github.com/rjimin/GameJam2024) (Associated with GameJam CSS Univeristy of Bristol) 👾, my [personal web portfolio](https://clarissachng.github.io/) 👩🏻‍💻 and many more!
+Currently a computer science student @ University of Bristol! Previously a SWE intern @ J.P. Morgan under Chase Front-End and a  web developer intern @ [BikeBear](https://www.bikebear.com.my/) 🐻 <br>
+Some of my recent works include [DrugWise](https://apuc-comp.web.app/) (Won first place in APUC Competition, associated with University of Bristol), MedicRecall (Associated with University of Bristol and NHS) 🩺, [Haunted Escape](https://github.com/rjimin/GameJam2024) (Associated with GameJam CSS University of Bristol) 👾, my [personal web portfolio](https://clarissachng.github.io/) 👩🏻‍💻 and many more!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarissa-chng/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/clarissachng/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clxrvssa/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarissa-chng/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/clarissachng/) 
 
 # 💻 Tech Stack:
 Front End: ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
